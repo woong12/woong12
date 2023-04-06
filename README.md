@@ -1,6 +1,4 @@
 ![](https://workers-visitors.wlsdnr129.workers.dev/visit?username=woong)
-<sup>[&larr; Try it](https://workers-visitors.wlsdnr129.workers.dev/)<sup>
-<br/>
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoong12&count_bg=%23FFBFC7&title_bg=%2392DEFF&icon=&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
