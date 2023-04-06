@@ -3,7 +3,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=woong's%20Github🚀&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=woong's%20GitHub🚀&fontSize=90)
 
 |[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woong12&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woong12&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 |--|--|
@@ -20,7 +20,7 @@
 <br>
 <img height='25' src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<img height='25' src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img height='25' src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=Dart&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 <br>
