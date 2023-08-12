@@ -4,7 +4,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=grey&height=200&section=header&text=MOL&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7D7D7D&height=200&section=header&text=MOL&fontSize=90)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6796e5&lines=Welcome&font=Dancing+Script&size=50&center=true&vCenter=true&width=600&height=80)](https://git.io/typing-svg)
 
