@@ -4,7 +4,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=MOL&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=200&section=header&text=MOL&fontSize=90)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6796e5&lines=Welcome&font=Dancing+Script&size=50&center=true&vCenter=true&width=600&height=80)](https://git.io/typing-svg)
 
@@ -13,9 +13,6 @@
 |--|--|
 
 <hr>
-<h3>⚔ Tech Stack ⚔</h3>
-
-<strong> Techs that I've used at least once </strong>
   
 <img height='25' src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
